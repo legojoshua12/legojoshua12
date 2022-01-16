@@ -7,8 +7,8 @@ My alias is legojoshua12 and I work on a variety of hobby projects!
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=89E86C)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=cmake&logoColor=white&color=89E86C)
 ![](https://img.shields.io/badge/Shell-Unix-informational?style=flat&logo=gnu-bash&logoColor=white&color=89E86C)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=89E86C)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=89E86C)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/legojoshua12/legojoshua12">
